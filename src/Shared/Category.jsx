@@ -47,7 +47,6 @@ const Category = () => {
     const [activeCategory, setActiveCategory] = useState(null);
     const [activeCategoryData, setActiveCategoryData] = useState([]);
     useEffect(() => {
-        // Set the first category as active when the component mounts
         if (duas?.categories?.length > 0) {
             const firstCategory = duas.categories[0];
             setActiveCategory(firstCategory?.id);
