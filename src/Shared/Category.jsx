@@ -18,7 +18,7 @@ const Category = () => {
     const [duas] = useDuas();
     const [isChapterActive, setIsChapterActive] = useState(true);
     const [rangeValue, setRangeValue] = useState(22);
-    const [rangeValue2, setRangeValue2] = useState(17);
+    const [rangeValue2, setRangeValue2] = useState(17)
 
     const [isChecked, setIsChecked] = useState(true);
 
