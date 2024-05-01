@@ -1,6 +1,4 @@
-# Project Presentation: Building a Modern Web UI
-
-Hello everyone,
+# Hello everyone,
 
 This is my Website Link: https://duas-client-app.vercel.app
 
